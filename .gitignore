@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React Native
+.bundle/
+android/build/
+android/.gradle/
+android/app/build/
+android/app/.cxx/
+ios/build/
+ios/Pods/
+ios/DerivedData/
+*.xcworkspace/
+
+# Build artifacts
+*.jks
+*.keystore
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
